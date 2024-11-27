@@ -4,7 +4,7 @@ Este proyecto es un sistema de autenticación desarrollado con Flask.
 
 ## Interfaz
 
-![Captura del proyecto](https://github.com/ManuelAlonso2006/FlaskLoginApp/raw/main/Login.jpg "Interfaz de la aplicación")
+![Captura del proyecto](https://github.com/ManuelAlonso2006/FlaskLogin/raw/main/Login.jpg "Interfaz de la aplicación")
 
 ## Instrucciones para Descargar y Ejecutar el Proyecto
 
